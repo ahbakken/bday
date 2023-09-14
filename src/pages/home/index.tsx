@@ -9,8 +9,8 @@ export default function Home() {
       <div>
         <Header />
       </div>
-      <div>
-        <h2>Add birthday</h2>
+      <div className='form-bday'>
+        <h2>Enter a new birthday to the calendar</h2>
         <InputBirthday />
       </div>
     </>
